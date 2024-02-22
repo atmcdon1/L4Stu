@@ -1,0 +1,21 @@
+First: Lilly
+Last: Anderson
+Email: anderson@uw.edu
+GPA: 4.0
+Year: Junior
+First: Henry
+Last: Brady
+Email: Brady@uw.edu
+GPA: 3.5
+Year: Senior
+First: Bob
+Last: Hardy
+Email: hardy123@uw.edu
+GPA: 3.4
+Year: Junior
+First: Hanna
+Last: Hardy
+Email: hardy456@uw.edu
+GPA: 3.8
+Year: Junior
+

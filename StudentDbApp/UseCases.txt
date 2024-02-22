@@ -1,0 +1,8 @@
+Use Case - add a new student - Sunny Day
+
+1- user wants to add a new student Named John Smith
+2- start application
+3- Search User - Search by name last name or email, or phonenumber
+4- Search for John Smith is empty.
+5- {A}dd student 
+6- 
