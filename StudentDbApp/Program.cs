@@ -17,6 +17,8 @@ namespace StudentDbApp
 
             //app.DBAppTest1;
 
+            Console.WriteLine("Hello World");
+
             
         }
 
